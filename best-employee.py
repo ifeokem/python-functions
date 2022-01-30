@@ -1,5 +1,4 @@
-
-work_hours=[("Okey",300),("Santos",350),("Jezive",650),("Onyeka",200)]
+work_hours=[("John",300),("Doe",350),("Mark",650),("Charles",200)]
 
 def employee_check(work_hours):
 	current_max=0
